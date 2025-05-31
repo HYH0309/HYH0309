@@ -4,7 +4,6 @@
 
 [![GitHub followers](https://img.shields.io/badge/粉丝-全是机器人-red)](https://github.com/HYH0309)
 [![Gmail](https://img.shields.io/badge/祖传邮箱-Y2433936387@163.com-D14836?logo=gmail&logoColor=white)](mailto:Y2433936387@163.com)
-[![Bilibili](https://img.shields.io/badge/摸鱼直播间-av114514-00A1D6?logo=bilibili&logoColor=white)](https://space.bilibili.com)
 
 > “紫荆桥下写 bug，芷园饭里找需求，校巴车上改文档” —— IMIS 学子三大人生阶段
 
@@ -34,7 +33,7 @@
 
 ## 🗑️ 屎山项目展
 
-### 🤬 [学生管理屎山系统](https://github.com/HYH0309/ShitMountain)
+### 🤬 [学生管理屎山系统](https://github.com/HYH0309/student-manage-system)
 [![GitHub license](https://img.shields.io/badge/license-祖传代码-red)]
 [![GitHub issues](https://img.shields.io/badge/issues-比华农芒果还多-blue)]
 
@@ -115,7 +114,7 @@ E -->|继续写屎山| A
    ```
 
 2. **能抄就抄原则**  
-   ![复制粘贴](https://media.giphy.com/media/l0HlG8vJXW0X5yX4s/giphy.gif)
+
 
 3. **在屎山上拉新屎**
 
@@ -144,7 +143,7 @@ E -->|继续写屎山| A
 > “代码世界里，每个bug都是通往延毕的阶梯”  
 > —— 来自SCAU的IMIS难民  
 
-![行政楼办事流程](https://media.giphy.com/media/3o7TKsQ8UQ4l4LhGz6/giphy.gif)  
+
 *访问本主页前建议先到行政楼办理《精神损失赔偿申请表》*
 
 ---
