@@ -4,15 +4,15 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=HYH0309&show_icons=true&theme=radical" height="180" />
+      <img src="https://github-readme-stats.vercel.app/api?username=HYH0309&show_icons=true&theme=fundamental" height="180" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HYH0309&layout=compact&theme=radical" height="180"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HYH0309&layout=compact&theme=fundamental" height="180"/>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://streak-stats.demolab.com?user=HYH0309&theme=radical&date_format=M%20j%5B%2C%20Y%5D" height="180"/>
+      <img src="https://streak-stats.demolab.com?user=HYH0309&theme=fundamental&date_format=M%20j%5B%2C%20Y%5D" height="180"/>
     </td>
   </tr>
   <tr>
