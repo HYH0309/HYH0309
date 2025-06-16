@@ -1,151 +1,115 @@
-# 😈 华农 IMIS 专业核废料级程序员
+# 😈 华农 IMIS 核废料级程序员 · 架构师（预备役）
 
-**擅长制造屎山代码 · 专业生产技术负债 · 全栈开发（指前后端一起崩）**
+**擅长屎山代码重构 · 专业转化技术负债为架构经验 · 伪全栈开发（前后端一起崩但能修好）**
 
-[![GitHub followers](https://img.shields.io/badge/粉丝-全是机器人-red)](https://github.com/HYH0309)
-[![Gmail](https://img.shields.io/badge/祖传邮箱-Y2433936387@163.com-D14836?logo=gmail&logoColor=white)](mailto:Y2433936387@163.com)
+[![架构师进度](https://img.shields.io/badge/屎山改造率-3.14%-yellowgreen)]()
+[![技术负债](https://img.shields.io/badge/技术负债-正在证券化-orange)]()
 
-> “紫荆桥下写 bug，芷园饭里找需求，校巴车上改文档” —— IMIS 学子三大人生阶段
-
----
-
-## 💩 技术“栈”（祖传屎山配方）
-
-**编程语言：**  
-![Java](https://img.shields.io/badge/Java-比教务系统还卡-007396?logo=openjdk)
-![Python](https://img.shields.io/badge/Python-只会print()-3776AB?logo=python)
-![Go](https://img.shields.io/badge/Go-还没"走"通-00ADD8?logo=go)
-![Rust](https://img.shields.io/badge/Rust-编译器都怕我-000000?logo=rust)
-
-**前端开发：**  
-![Vue](https://img.shields.io/badge/Vue3-组件地狱-4FC08D?logo=vuedotjs)
-![TypeScript](https://img.shields.io/badge/TS-类型体操失败-3178C6?logo=typescript)
-![HTML5](https://img.shields.io/badge/HTML-还在用div布局-E34F26?logo=html5)
-
-**后端框架：**  
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-祖传版本-6DB33F?logo=springboot)
-![Gin](https://img.shields.io/badge/Gin-接口全404-009688?logo=go)
-
-**数据库：**  
-![MySQL](https://img.shields.io/badge/MySQL-密码写在注释里-4479A1?logo=mysql)
+> “在紫荆桥下写的 bug，终将成为架构师勋章” —— 自欺欺人版IMIS格言
 
 ---
 
-## 🗑️ 屎山项目展
+## 🧪 技术毒物表（含解药配方）
 
-### 🤬 [学生管理屎山系统](https://github.com/HYH0309/student-manage-system)
-[![GitHub license](https://img.shields.io/badge/license-祖传代码-red)]
-[![GitHub issues](https://img.shields.io/badge/issues-比华农芒果还多-blue)]
+| 毒物          | 毒性描述                  | 解毒方案（架构师方向）               |
+|---------------|-------------------------|----------------------------------|
+| **Vue3+TS**   | 组件地狱深度患者          | `微前端架构` · `WebGL可视化`       |
+| **SpringBoot**| 祖传CRUD战士             | `分布式事务` · `JVM调优`           |
+| **Gin**       | 高并发从入门到放弃        | `万级QPS优化` · `中间件生态`       |
+| **Python**    | import拯救世界           | `Flink实时计算` · `架构健康诊断`   |
+| **Redis**     | SET/GET征服者            | `分布式锁` · `流处理`              |
+| **Rust**      | 编译器一生之敌            | `内存安全实战` · `异步编程`         |
 
-**技术栈：**  
-- 前端：Vue3 + 未使用的UnoCSS + 类型体操失败  
-- 后端：Spring Boot祖传版本 + 裸奔数据库密码  
+---
 
-**特色功能：**
-```java
-// IMIS经典生存逻辑
-if(要写代码 && 要写文档){
-    精神分裂();
-}else{
-    延期毕业();
+## 🚧 屎山改造计划
+
+### 🔨 在产屎中学习（当前技能）
+
+```mermaid
+graph LR
+    A[Vue3+TS] -->|造轮子| B(组件地狱)
+    C[SpringBoot] -->|复制粘贴| D(祖传CRUD)
+    E[Gin] -->|硬写| F(接口404)
+    G[Redis] -->|当HashMap用| H(缓存穿透)
+    style A fill:#4FC08D,stroke:#333
+    style C fill:#6DB33F,stroke:#333
+    style E fill:#009688,stroke:#333
+```
+
+### 🏗️ 屎山重建蓝图（学习方向）
+
+```mermaid
+graph TB
+    subgraph 架构师解毒剂
+        A[数据驱动] --> B(Matlab仿真容量)
+        A --> C(Python架构评估)
+        D[云原生] --> E(K8s服务治理)
+        D --> F(Istio可观测性)
+        G[分布式] --> H(Redis分片集群)
+        G --> I(Seata分布式事务)
+    end
+    style A fill:#FF6B6B,stroke:#333
+```
+
+---
+
+## 🗿 华农IMIS修仙指南
+
+### 专业课程真相
+
+| 课程名               | 官方教材          | 实战收获                  |
+|---------------------|-----------------|-------------------------|
+| 系统分析与设计      | UML图大全        | 如何把简单需求画成迷宫      |
+| 数据库原理          | 三范式理论        | 删库跑路的一百种姿势        |
+| 数据结构与算法      | 《算法导论》      | LeetCode从入门到住院       |
+
+### 校园开发圣地
+
+```
+ 华山宿舍 -- debug到凌晨 --> 芷园夜宵
+     ↑                      ↓
+ 技术负债增加          体重增加+1
+     ↑                      ↓
+ 行政楼<--提交延期申请-- 教学楼
+```
+
+---
+
+## 💣 核心理念：在屎山上建金字塔
+
+```diff
+// 2024年战略升级版屎山
+function calculateGPA() {
+-   // 看不懂但不敢删的祖传代码
++   // 用Rust重写的防崩溃模块
++   // 经Matlab验证的算法
 }
 ```
 
+**屎山开发新原则：**
+
+1. 每坨新屎必须包含单元测试（哪怕测试也是屎）
+2. 抄代码要注明来源（方便甩锅）
+3. 在祖传屎山上用Rust建造安全屋
+
 ---
 
-### ☢️ [核废料级算法平台](https://github.com/HYH0309/web-work)
-[![技术负债](https://img.shields.io/badge/技术负债-∞元-red)]
-[![代码质量](https://img.shields.io/badge/可维护性-黑洞级-black)]
+## 📈 技术负债转化方案
 
-**架构亮点：**
+| 负债资产          | 证券化方案                  | 预期收益              |
+|------------------|---------------------------|---------------------|
+| Vue组件地狱       | 微前端隔离方案              | 维护成本↓30%         |
+| SpringBoot祖传CRUD| DDD领域重构                | 扩展性↑200%          |
+| Redis缓存穿透     | 布隆过滤器防护              | 服务器费用↓40%        |
+
+---
+
+> “从紫荆桥下的bug猎人，到珠江新城的架构师——  
+> 我们终将把技术负债变成架构资本”  
+> —— 华农IMIS跑路未遂者  
+
+[![重构援助](https://img.shields.io/badge/架构救援热线-Y2433936387@163.com-blue)](mailto:Y2433936387@163.com)
+[![精神赔偿](https://img.shields.io/badge/领取《屎山精神损失险》-点击办理-red)](https://github.com/HYH0309)
+
 ```
-src/
-  api/          // 200个API文件管理10个接口
-  components/   // 300个组件其中299个只用过一次
-  utils/        // console.log的100种封装姿势
-```
-**成就：**用火箭科学复杂度实现了博客后台功能
-
----
-
-## 📊 GitHub 惨淡数据
-
-[![代码坟场](https://github-readme-stats.vercel.app/api?username=HYH0309&show_icons=true&theme=dark&hide_title=true)](https://github.com/HYH0309)
-[![语言分布](https://github-readme-stats.vercel.app/api/top-langs/?username=HYH0309&layout=compact&theme=dark&hide=html,css)](https://github.com/HYH0309)
-
-> **数据分析：**
-> - TypeScript使用率90% → 类型体操失败率90%
-> - Java代码占比8% → 祖传屎山维护成本
-> - 其他语言2% → 写demo时临时学的
-
----
-
-## 🏫 华农IMIS生存指南
-
-**专业课程：**
-
-| 课程名称               | 实际收获               | 精神伤害   |
-|----------------------|----------------------|-----------|
-| 信息系统分析与设计    | 学会画没人看的UML图    | 🤯🤯🤯🤯     |
-| 数据库原理与应用      | 精通删库跑路技巧        | 🤯🤯🤯       |
-| Web前端开发           | 掌握div+css禅学        | 🤯🤯         |
-| 数据结构与算法        | LeetCode刷题从入门到放弃 | 🤯🤯🤯🤯     |
-
-**校园开发圣地：**
-```mermaid
-graph LR
-A[华山宿舍] -->|深夜debug| B(头发-1)
-B --> C[树木园]
-C -->|蚊子代码评审| D[项目崩溃]
-D -->|去芷园干饭| E[体重+1]
-E -->|继续写屎山| A
-```
-
----
-
-## ☠️ 屎山开发哲学
-
-1. **绝不重构原则**
-   ```ts
-   // 2020年写的垃圾代码
-   function calculateGPA() {
-     // 看不懂但不敢删
-   }
-   ```
-
-2. **能抄就抄原则**  
-
-
-3. **在屎山上拉新屎**
-
-| 模块    | 真实作用                  |
-|---------|--------------------------|
-| OJ      | 给另一个项目当垫脚石      |
-| Comment | 收集重构时的脏话素材      |
-| SSE     | 让校巴永远不到站的诅咒    |
-
----
-
-## 📮 联系我（谨慎！）
-
-[![邮箱](https://img.shields.io/badge/祖传邮箱-Y2433936387@163.com-D14836?style=for-the-badge&logo=gmail)](mailto:Y2433936387@163.com)  
-**微信**：添加请备注"华农勇士"（会被拉进bug互助群）
-
-**重构合作须知：**
-```diff
-- 不接急单（因为不会做）
-- 不谈架构（只会复制粘贴）
-- 不保证交付（随时跑路去芷园干饭）
-```
-
----
-
-> “代码世界里，每个bug都是通往延毕的阶梯”  
-> —— 来自SCAU的IMIS难民  
-
-
-*访问本主页前建议先到行政楼办理《精神损失赔偿申请表》*
-
----
-
-如需进一步美化（如添加侧边栏目录、分块折叠、英文版本等），可随时告知！
