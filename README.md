@@ -18,6 +18,12 @@
   </tr>
 </table>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HYH0309&theme=github-compact" height="180"/>
+<br/>
+<img src="https://streak-stats.demolab.com?user=HYH0309&theme=fundamental&date_format=M%20j%5B%2C%20Y%5D" height="180"/>
+<br/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=HYH0309.HYH0309" alt="visitor badge"/>
+
 </div>
 **擅长屎山代码重构 · 专业转化技术负债为架构经验 · 伪全栈开发（前后端一起崩但能修好）**
 
