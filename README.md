@@ -1,5 +1,12 @@
 # 😈 华农 IMIS 核废料级程序员 · 架构师（预备役）
+<div align="center">
 
+![HYH0309's GitHub stats](https://github-readme-stats.vercel.app/api?username=HYH0309&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HYH0309&layout=compact&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=HYH0309&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+![Visitor Count](https://komarev.com/ghpvc/?username=HYH0309&color=blue)
+
+</div>
 **擅长屎山代码重构 · 专业转化技术负债为架构经验 · 伪全栈开发（前后端一起崩但能修好）**
 
 [![架构师进度](https://img.shields.io/badge/屎山改造率-3.14%25-yellowgreen)]()
