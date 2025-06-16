@@ -2,8 +2,8 @@
 
 **擅长屎山代码重构 · 专业转化技术负债为架构经验 · 伪全栈开发（前后端一起崩但能修好）**
 
-[![架构师进度](https://img.shields.io/badge/屎山改造率-3.14%-yellowgreen)]()
-[![技术负债](https://img.shields.io/badge/技术负债-正在证券化-orange)]()
+[![架构师进度](https://img.shields.io/badge/屎山改造率-3.14%25-yellowgreen)]()
+[![技术负债](https://img.shields.io/badge/技术负债-证券化中-orange)]()
 
 > “在紫荆桥下写的 bug，终将成为架构师勋章” —— 自欺欺人版IMIS格言
 
