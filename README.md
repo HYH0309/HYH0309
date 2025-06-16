@@ -53,7 +53,27 @@ graph TB
 ```
 
 ---
+## 🚀 技术项目全景
 
+### 💻 全栈应用
+| 项目 | 技术栈 | 亮点 | 状态 |
+|------|--------|------|------|
+| **[学生管理系统](https://github.com/HYH0309/student-manage-system)**<br>Vue3+SpringBoot信息平台 | ![Vue](https://img.shields.io/badge/-Vue3-4FC08D) ![TS](https://img.shields.io/badge/-TypeScript-3178C6) ![Spring](https://img.shields.io/badge/-Spring_Boot-6DB33F) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1) | 响应式UI设计 · 教务场景深度适配 | ![完成度](https://img.shields.io/badge/完整上线-成功交付-brightgreen) |
+| **[IMISLab](https://github.com/HYH0309/IMISLab)**<br>实验室综合管理平台 | ![Go](https://img.shields.io/badge/-Gin-00ADD8) ![Vue](https://img.shields.io/badge/-Vue3-4FC08D) ![TS](https://img.shields.io/badge/-TypeScript-3178C6) | 算法可视化 · 自动化脚本集成 | ![进度](https://img.shields.io/badge/持续迭代-新功能开发-yellow) |
+| **[博客系统](https://github.com/HYH0309/Blog)**<br>Gin+Vue3+Tauri跨端方案 | ![Go](https://img.shields.io/badge/-Gin-00ADD8) ![Vue](https://img.shields.io/badge/-Vue3-4FC08D) ![Rust](https://img.shields.io/badge/-Tauri-000000) | Web/桌面双端支持 · Rust高性能封装 | ![状态](https://img.shields.io/badge/核心功能完成-优化中-blue) |
+
+### 🛠️ 工具链
+| 项目 | 技术栈 | 亮点 | 类型 |
+|------|--------|------|------|
+| **[CVue CLI](https://github.com/HYH0309/cvue)**<br>Rust版Vue模板工具 | ![Rust](https://img.shields.io/badge/-Rust-000000) ![Node](https://img.shields.io/badge/-CLI-339933) | 模板生成速度提升3倍 · 跨平台支持 | ![类型](https://img.shields.io/badge/开发工具-效率利器-9cf) |
+| **[前端模板](https://github.com/HYH0309/template)**<br>标准化Vue3启动套件 | ![Vue](https://img.shields.io/badge/-Vue3-4FC08D) ![Vite](https://img.shields.io/badge/-Vite-646CFF) ![TS](https://img.shields.io/badge/-TypeScript-3178C6) | 开箱即用 · 企业级工程配置 | ![类型](https://img.shields.io/badge/脚手架-最佳实践-purple) |
+
+### ⚡ 创新探索
+| 项目 | 技术栈 | 亮点 | 成果 |
+|------|--------|------|------|
+| **[算法可视化](https://github.com/HYH0309/web-work)**<br>Vue3算法教学平台 | ![Vue](https://img.shields.io/badge/-Vue3-4FC08D) ![TS](https://img.shields.io/badge/-TypeScript-3178C6) ![D3](https://img.shields.io/badge/-D3.js-F9A03C) | 动态演示核心算法 · 交互式学习体验 | ![成果](https://img.shields.io/badge/教育应用-广受好评-green) |
+| **[待办应用](https://github.com/HYH0309/Todo)**<br>Vue+Rust全栈实践 | ![Vue](https://img.shields.io/badge/-Vue3-4FC08D) ![Rust](https://img.shields.io/badge/-Rust-000000) | WASM集成 · 零依赖桌面应用 | ![成果](https://img.shields.io/badge/技术验证-原型成功-blueviolet) |
+| **[音乐播放器](https://github.com/HYH0309/Music-Player)**<br>Java Swing桌面应用 | ![Java](https://img.shields.io/badge/-Swing-007396) ![MP3](https://img.shields.io/badge/-Audio-009688) | 轻量级实现 · 经典GUI编程实践 | ![成果](https://img.shields.io/badge/怀旧项目-技术考古-ff69b4) |
 ## 🗿 华农IMIS修仙指南
 
 ### 专业课程真相
