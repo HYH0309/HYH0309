@@ -53,27 +53,84 @@ graph TB
 ```
 
 ---
-## 🚀 技术项目全景
+## 🧪 技术栈自曝【踩坑实录】
 
-### 💻 全栈应用
-| 项目 | 技术栈 | 亮点 | 状态 |
-|------|--------|------|------|
-| **[学生管理系统](https://github.com/HYH0309/student-manage-system)**<br>Vue3+SpringBoot信息平台 | ![Vue](https://img.shields.io/badge/-Vue3-4FC08D) ![TS](https://img.shields.io/badge/-TypeScript-3178C6) ![Spring](https://img.shields.io/badge/-Spring_Boot-6DB33F) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1) | 响应式UI设计 · 教务场景深度适配 | ![完成度](https://img.shields.io/badge/完整上线-成功交付-brightgreen) |
-| **[IMISLab](https://github.com/HYH0309/IMISLab)**<br>实验室综合管理平台 | ![Go](https://img.shields.io/badge/-Gin-00ADD8) ![Vue](https://img.shields.io/badge/-Vue3-4FC08D) ![TS](https://img.shields.io/badge/-TypeScript-3178C6) | 算法可视化 · 自动化脚本集成 | ![进度](https://img.shields.io/badge/持续迭代-新功能开发-yellow) |
-| **[博客系统](https://github.com/HYH0309/Blog)**<br>Gin+Vue3+Tauri跨端方案 | ![Go](https://img.shields.io/badge/-Gin-00ADD8) ![Vue](https://img.shields.io/badge/-Vue3-4FC08D) ![Rust](https://img.shields.io/badge/-Tauri-000000) | Web/桌面双端支持 · Rust高性能封装 | ![状态](https://img.shields.io/badge/核心功能完成-优化中-blue) |
+> “看着很全，实际一问三不知。最擅长的其实是踩坑和重装开发环境。”
 
-### 🛠️ 工具链
-| 项目 | 技术栈 | 亮点 | 类型 |
-|------|--------|------|------|
-| **[CVue CLI](https://github.com/HYH0309/cvue)**<br>Rust版Vue模板工具 | ![Rust](https://img.shields.io/badge/-Rust-000000) ![Node](https://img.shields.io/badge/-CLI-339933) | 模板生成速度提升3倍 · 跨平台支持 | ![类型](https://img.shields.io/badge/开发工具-效率利器-9cf) |
-| **[前端模板](https://github.com/HYH0309/template)**<br>标准化Vue3启动套件 | ![Vue](https://img.shields.io/badge/-Vue3-4FC08D) ![Vite](https://img.shields.io/badge/-Vite-646CFF) ![TS](https://img.shields.io/badge/-TypeScript-3178C6) | 开箱即用 · 企业级工程配置 | ![类型](https://img.shields.io/badge/脚手架-最佳实践-purple) |
+[![技术盲盒](https://img.shields.io/badge/技术盲盒-随机掉坑-critical)]()
+[![屎山加固](https://img.shields.io/badge/屎山加固-进行中-blueviolet)]()
+[![Bug生成器](https://img.shields.io/badge/BUG-自动孵化-orange)]()
 
-### ⚡ 创新探索
-| 项目 | 技术栈 | 亮点 | 成果 |
-|------|--------|------|------|
-| **[算法可视化](https://github.com/HYH0309/web-work)**<br>Vue3算法教学平台 | ![Vue](https://img.shields.io/badge/-Vue3-4FC08D) ![TS](https://img.shields.io/badge/-TypeScript-3178C6) ![D3](https://img.shields.io/badge/-D3.js-F9A03C) | 动态演示核心算法 · 交互式学习体验 | ![成果](https://img.shields.io/badge/教育应用-广受好评-green) |
-| **[待办应用](https://github.com/HYH0309/Todo)**<br>Vue+Rust全栈实践 | ![Vue](https://img.shields.io/badge/-Vue3-4FC08D) ![Rust](https://img.shields.io/badge/-Rust-000000) | WASM集成 · 零依赖桌面应用 | ![成果](https://img.shields.io/badge/技术验证-原型成功-blueviolet) |
-| **[音乐播放器](https://github.com/HYH0309/Music-Player)**<br>Java Swing桌面应用 | ![Java](https://img.shields.io/badge/-Swing-007396) ![MP3](https://img.shields.io/badge/-Audio-009688) | 轻量级实现 · 经典GUI编程实践 | ![成果](https://img.shields.io/badge/怀旧项目-技术考古-ff69b4) |
+<div align="center">
+
+<table>
+<tr>
+<td align="center"><b>前端</b></td>
+<td align="center"><b>后端</b></td>
+<td align="center"><b>数据库</b></td>
+<td align="center"><b>工具链</b></td>
+</tr>
+<tr>
+<td>
+  <img src="https://img.shields.io/badge/Vue3-4FC08D?style=flat-square">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square">
+  <img src="https://img.shields.io/badge/Tauri-000000?style=flat-square">
+  <br>
+  <sub>写Vue主要为了水练手项目<br>TS类型写到后面基本全any<br>跨端啥的纯属跟风，遇到奇葩报错就祭出“重启大法”</sub>
+</td>
+<td>
+  <img src="https://img.shields.io/badge/Gin-00ADD8?style=flat-square">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square">
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square">
+  <br>
+  <sub>接口拼凑大师，CRUD效率超高<br>Gin写着写着就变接口404生成器<br>SpringBoot权限认证能咕就咕，接口有实现就谢天谢地<br>Rust主要用来“被编译器教育”</sub>
+</td>
+<td>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square">
+  <br>
+  <sub>复杂SQL不会写，ORM随缘调<br>Redis基本只会set/get，缓存穿透靠百度<br>表结构设计灵感全靠隔壁项目抄</sub>
+</td>
+<td>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square">
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square">
+  <br>
+  <sub>部署靠抄配置，能跑就不敢动<br>CI/CD配完怕炸，出错直接手动传包<br>偶尔用Python写点“拯救世界的小脚本”，实际拯救的是心态</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+### 💬 真实项目体验
+
+- **cvue / 待办事项 / 音乐播放器**  
+  > 纯练手项目，功能有限，代码量大于实际作用。写着写着就成了屎山，但能跑就行，毕竟主要目的是熟悉框架和自娱自乐。
+- **学生管理系统**  
+  > “接口预留大师”，实现了一半，剩下的全靠注释和想象。Java权限校验直接摆烂，能跑起来就不错了。
+- **IMISLab**  
+  > 目前在做，越写越臃肿，写到后面连自己都怕改。虽然有点冗杂，但好歹比之前的练手机器人项目靠谱点。
+- **Blog**  
+  > 算是写得最久的项目，前后端分离+跨端（Gin+Tauri+Vue3），虽然踩了无数坑，但好歹能用。每次加新功能都伴随一波“重构”。
+
+---
+
+### 🏆 技术栈总结
+
+- 项目五花八门，技术一知半解；
+- 写代码像盖房子，地基没打稳就开始上楼；
+- 每次看到新技术都想试试，试完就变成新屎山；
+- 真要生产用，建议先 refactor 三遍以上。
+
+> “我有一座技术债山，欢迎上来踩雷”  
+> —— 华农IMIS屎山首席体验官
+
+---
 ## 🗿 华农IMIS修仙指南
 
 ### 专业课程真相
