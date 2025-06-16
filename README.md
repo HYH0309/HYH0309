@@ -1,4 +1,10 @@
 # 😈 华农 IMIS 核废料级程序员 · 架构师（预备役）
+## 👋 Hi, I'm HYH0309
+
+- 🎓 IMIS/SCAU
+- 🌱 正在学习/研究 全栈开发
+- 📫 www.hyh0209.cn
+- 💡 心之所向，素履以往
 <div align="center">
 
 <table>
